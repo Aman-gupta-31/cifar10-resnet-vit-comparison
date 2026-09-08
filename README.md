@@ -15,7 +15,7 @@ evaluates both models to compare their performance, convergence behavior, and ge
 | Model  | Test Accuracy |
 |--------|--------------|
 | ResNet |    80.65%    |
-| ViT    |    XX.XX%    |
+| ViT    |    65.74%    |
 
 ## Tech Stack
 - Python, PyTorch
